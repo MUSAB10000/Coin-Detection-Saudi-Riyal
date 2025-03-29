@@ -42,4 +42,4 @@ This project uses the Roboflow API to detect coins in an image, count them, and 
 ## License
 Please note that all models hosted by Roboflow are covered by a commercial model license. If you are using these models in your project, you must comply with Roboflow's licensing and pricing terms. For more details, please refer to the [Roboflow Licensing and Pricing](https://roboflow.com/pricing) page.
 
-نسخ
+
